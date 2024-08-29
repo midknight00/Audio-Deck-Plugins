@@ -1,0 +1,10 @@
+{
+  "name": "Aquatic Ambience - Voltz Supreme",
+  "description": "Musci pack based on DKC by Voltz Supreme",
+  "author": "midknight00",
+  "version": "v1.0",
+  "manifest_version": 8,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
