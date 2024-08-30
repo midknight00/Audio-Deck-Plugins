@@ -3,7 +3,7 @@
   "description": "Musci pack based on DKC by Voltz Supreme",
   "author": "midknight00",
   "version": "v1.0",
-  "manifest_version": 8,
+  "manifest_version": 2,
   "music": true,
   "ignore": [],
   "mappings": {}
